@@ -21,7 +21,7 @@ class validae:
                         break
         register()
         
-    def signuri_details(self):
+    def signup_details(self):
         if self.user == None and self.password == None:
             self.user = input('Create your username: ').title()
             self.password = input('Create your password: ')
