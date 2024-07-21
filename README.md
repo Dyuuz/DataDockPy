@@ -30,5 +30,5 @@ File access issues.
 
 Code Optimization:
 Efficient data handling using file operations.
-Clear separation of concerns with class functions for each feature.
+Clear separation of concerns with class functions for each specifications.
 Minimal resource usage with effective error management.
